@@ -8,6 +8,9 @@
 – **Исследования в области AI** — экспериментирую с генеративными моделями и применением ИИ в реальных задачах.  
 – **Автоматизация анализа данных** — создаю пайплайны для подготовки и валидации данных.
 
-## Навыки:
+## Мои навыки:
  Python, NumPy, Pandas, TensorFlow, Keras, PyTorch, Scikit-learn, OpenCV, SQL, Matplotlib, Seaborn.
 
+##  Контакты:
+- Email: biryukov.nikita3@gmail.com
+- Telegram: @n_rashevsky
